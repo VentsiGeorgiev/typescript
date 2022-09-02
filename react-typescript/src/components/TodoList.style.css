@@ -4,3 +4,6 @@
     flex-wrap: wrap;
     width: 90%;
 }
+.done {
+    text-decoration: line-through;
+}
